@@ -40,7 +40,7 @@ You may also see any lint errors in the console.
 Run backend based on fastify\
 Backend [http://localhost:3001](http://localhost:3001)
 
-## 🛤 SScaling in production
+## 🛤 Scaling in production
 
 Backends use ECDSA for user verification, and signatures can be delivered to any backend instance without any problems.\
 It can be deployed in multiple independent instances for high availability issues.\
