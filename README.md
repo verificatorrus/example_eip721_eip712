@@ -4,7 +4,7 @@ This project uses React.js, ethers and Fastify.
 
 For NFT metadata storage, useed [https://jsonbin.io](https://jsonbin.io)
 
-Smart edited was created with [https://remix.ethereum.org](https://remix.ethereum.org)
+Smart contract was created with [https://remix.ethereum.org](https://remix.ethereum.org)
 
 Sepolia test net, for example, is used.
 
